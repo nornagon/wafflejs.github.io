@@ -261,13 +261,16 @@
 
     - 7:45 PM:
         type: Talk
-        emoji: 🚀
-        title: TBD
-        description: TBD
+        emoji: ⬡
+        title: Hexing Ncurses
+        description: |
+          The first thing programmers learn, Hello World, prints a string to the terminal. But some terminal apps do WAY COOLER things than just printing strings! They move the cursor around the screen, they make colors and animations, and some of them can even take MOUSE INPUT??! How do they even do that???
+
+          The answer to this to use lies in mysterious and ancient curses (and includes a brief history of video terminals and the Digital Equipment Corporation).
         person:
           name: Jeremy Apthorp
           twitter: nornagon
-          pronouns: # examples: she/her, they/them, he/him  (bit.ly/pronoun-faq)
+          pronouns: he/him
           
     - 8:00 PM:
         type: Talk
@@ -1554,7 +1557,7 @@
         emoji: 🎹🎤💻🎶
         title: Felicity, performed by Greg Sabo
         description: Greg Sabo is a software engineer by day, and a pop star by night.
-                     He'll be bringing his 80's synthpop sound in full force. If you like bands
+                     He'll be bringing his 80's synthpop sound in full horse. If you like bands
                      like Depeche Mode and a-ha, then you'll practically SEGFAULT when you
                      hear this.
                      Greg will be singing and playing his original song "Felicty".
@@ -2418,9 +2421,9 @@
         type: Talk
         emoji: 🍕🦄
         title: |
-          ESLint be with you: developer tools, empathy, and the Force
+          ESLint be with you: developer tools, empathy, and the Horse
         description: |
-          Shared, programmatically enforceable style guides make it easier for code reviewers and authors to have meaningful conversations about substance, not style (thanks ESlint!) Like the Force, linters have a dark and a light side. How do we make sure developer tools are providing value evenly for contributors of all levels?
+          Shared, programmatically enhorseable style guides make it easier for code reviewers and authors to have meaningful conversations about substance, not style (thanks ESlint!) Like the Horse, linters have a dark and a light side. How do we make sure developer tools are providing value evenly for contributors of all levels?
         person:
           name: Tilde Ann Thurium
           twitter: annthurium
@@ -2543,7 +2546,7 @@
           Some people think it is really good. This is a talk about how it is made and how you can make one yourself.
         person:
           name: Malte Ubl
-          twitter: cramforce
+          twitter: cramhorse
 
     - 9:00 PM:
         type: Talk
